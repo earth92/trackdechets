@@ -118,7 +118,7 @@
     "rate-limit-redis": "^2.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "soap": "^0.43.0",
+    "soap": "^0.44.0",
     "winston": "^3.2.1",
     "winston-transport": "^4.3.0",
     "world-countries": "^4.0.0",
