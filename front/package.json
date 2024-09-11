@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.6.8",
-    "@dataesr/react-dsfr": "^3.1.11",
+    "@dataesr/react-dsfr": "^3.4.2",
     "@reach/dialog": "^0.11.2",
     "@reach/menu-button": "^0.11.2",
     "@reach/tooltip": "^0.11.2",
@@ -39,7 +39,7 @@
     "react-dom": "18.2.0",
     "react-lazyload": "^2.5.0",
     "react-qr-code": "^1.0.5",
-    "react-router-dom": "5.1.2",
+    "react-router-dom": "6.0.0",
     "react-router-tabs": "^1.3.2",
     "react-select": "^3.1.0",
     "react-switch": "5.0.1",
