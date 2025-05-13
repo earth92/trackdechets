@@ -79,7 +79,7 @@
     "connect-redis": "^6.0.0",
     "cors": "^2.8.5",
     "cron": "^1.8.2",
-    "cron-validate": "^1.4.3",
+    "cron-validate": "^1.5.0",
     "csv-parser": "^2.3.3",
     "dataloader": "^2.0.0",
     "date-fns": "^2.14.0",
@@ -124,7 +124,7 @@
     "world-countries": "^4.0.0",
     "xss": "^1.0.10",
     "xstate": "^4.25.0",
-    "yup": "^0.32.11",
+    "yup": "^1.0.0",
     "zxcvbn": "^4.4.2"
   },
   "devDependencies": {
