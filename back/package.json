@@ -72,7 +72,7 @@
     "apollo-server-plugin-base": "^3.6.2",
     "app-root-path": "^3.0.0",
     "axios": "^0.23.0",
-    "bcrypt": "^5.0.0",
+    "bcrypt": "^5.0.1",
     "bull": "^4.10.1",
     "camel-case": "^4.1.1",
     "concat-stream": "^2.0.0",
